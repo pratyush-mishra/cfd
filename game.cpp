@@ -182,6 +182,7 @@ int main()
         cout<<"\n\nADDICTION -10\n";
         addiction-=10;
     }
+    cout<<"\n\n";
     system("pause");
     system("cls");
 
@@ -192,7 +193,7 @@ int main()
     system("cls");
 
     cout<<"\nI cannot let this happen, and on a whim I stood up and pushed her away from my bag, snatching the pouch from her. ";
-    cout<<"\nShe was in shock 'These… your \"medicines\"!. These are drugs! For how long have you been taking them?!' ";
+    cout<<"\nShe was in shock 'Theseâ€¦ your \"medicines\"!. These are drugs! For how long have you been taking them?!' ";
     cout<<"\n'It doesn't concern you,'\n'Really? All those migraines and fluctuating temperatures, it was all because of them! How can this not concern me? I have been dating a drug addict for the past 3 years!'";
     cout<<"\n'You will never understand how important are these to me,' ";
     cout<<"\n'YES! Your illness, the terrible headaches, you passing out. You need these in your life, right? All those times I helped you, took care of you without even realizing you were the one who is responsible for all this.'";
@@ -205,6 +206,7 @@ int main()
     cout<<"\n'Those drugs in your hand have already explained everything. You are a drug addict, that is exactly what you are. Just leave, it's all over,' ";
     cout<<"\nFeeling all numb, I leave her house and return back home. ";
     cout<<"\nAddiction level - "<<addiction<<endl;
+    cout<<"\n\n";
     system("pause");
     system("cls");
 
@@ -233,7 +235,7 @@ int main()
             cout<<"\n\nPress Enter to continue.\n\n";
 
             if(cin.get() == '\n')
-            cout<<"\nAfter waking up to 3 snoozed alarms and 5 missed calls, I realize that it’s already 3pm.";
+            cout<<"\nAfter waking up to 3 snoozed alarms and 5 missed calls, I realize that itâ€™s already 3pm.";
             cout<<"\nI headed to my workplace without any delays, and one of my colleagues informs me that the sponsors have already left.";
             cout<<"\nRonald has been eyeing me ever since I entered the office, he approached me, ";
             cout<<"\n'This is the last time you are being excused. Better pull up your socks.'";
@@ -247,7 +249,7 @@ int main()
             cout<<"\nI should stay away from the medicines for a while.";
             cout<<"\nIf I want Michelle back in my life, I need to mend my ways.";
             cout<<"\nI headed to my workplace, the sponsors will be here any time now.";
-            cout<<"\nI guess I should’ve taken the medicines, I feel dizzy and I am sweating a lot. I am feeling nervous, I hope this goes well.";
+            cout<<"\nI guess I shouldâ€™ve taken the medicines, I feel dizzy and I am sweating a lot. I am feeling nervous, I hope this goes well.";
             cout<<"\n\nADDICTION -10";
             addiction-=10;
             PlaySound(".\\sound\\boss.wav", NULL, SND_ASYNC);
@@ -267,10 +269,9 @@ int main()
     else if (inpt == 2){
             cout<<"\nI think going to the office in this state is not a good option.";
             cout<<"\nI will screw up the meeting with the sponsors, plus I am not in the mood.";
-            cout<<"\nI am not happy about today’s incident. I want to make this up...";
+            cout<<"\nI am not happy about todayâ€™s incident. I want to make this up...";
             cout<<"\n\n1.	Call Michelle - ";
             cout<<"\n\n2.   Don't call Michelle - ";
-            cout<<"\n\n3.   Go to the office - ";
             cout<<"\n(Choose the corresponding number of the option)\n";
             cin>>inpt;
 
@@ -402,7 +403,7 @@ int main()
         cout<<"\nI will call again, no reply. Yet again, 'I asked you to stop calling me. I don't know you anymore,'";
         cout<<"\n'Please Michelle. I lost my job, I really need your help.'";
         cout<<"\n'Look at yourself, still running away. You should at least realize now that you will never escape from this addiction. You are a mess. You will always be one. Goodbye'";
-        cout<<"\nThe call didn't work. I guess I have no option left… ";
+        cout<<"\nThe call didn't work. I guess I have no option leftâ€¦ ";
         cout<<"\nOr maybe I do. I need a lot of courage for this. I have to wait for midnight.";
         cout<<"\n\n";
         system("pause");
@@ -418,7 +419,7 @@ int main()
         cout<<"\nI should message him explaining about my situation. After 3 hours of waiting for a reply I realized one thing. ";
         cout<<"\nDrug dealers will never help a customer out because drug dealers are not friends. ";
         cout<<"\nSniff was the devil who put me in this mess and I will never be able to recover from this.";
-        cout<<"\nThe call didn't work. I guess I have no option left… ";
+        cout<<"\nThe call didn't work. I guess I have no option leftâ€¦ ";
         cout<<"\nOr maybe I do. I need a lot of courage for this. I have to wait for midnight.";
         cout<<"\n\n";
         system("Pause");
@@ -432,7 +433,7 @@ int main()
         cout<<"\nI guess Ronald is my final option.";
         cout<<"\n'Hey Ronald, I am really sorry about that day. I was suffering from high fever. I am ready to do anything to make it up.'";
         cout<<"\n'You really think I am that ignorant? I have known about your drug addiction for quite a while. I tried to keep your personal life out of my business, but you didn't. Your drug problem was pulling down the company. I am sorry, but I cannot help you.'";
-        cout<<"\nThe call didn't work. I guess I have no option left… ";
+        cout<<"\nThe call didn't work. I guess I have no option leftâ€¦ ";
         cout<<"\nOr maybe I do. I need a lot of courage for this. I have to wait for midnight.";
         cout<<"\n\n";
         system("pause");
